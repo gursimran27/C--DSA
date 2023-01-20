@@ -1,0 +1,1 @@
+{"name":"Local: string1_maxchar","url":"c:\\codes\\string1_maxchar.cpp","tests":[{"id":1668440951941,"input":"hello","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\codes\\string1_maxchar.cpp","group":"local","local":true}

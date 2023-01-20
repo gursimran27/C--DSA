@@ -1,0 +1,1 @@
+{"name":"Local: prefixsum2","url":"c:\\codes\\prefixsum2.cpp","tests":[{"id":1668436245828,"input":"5\n2 1 3 9 6\n1\n1 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\codes\\prefixsum2.cpp","group":"local","local":true}

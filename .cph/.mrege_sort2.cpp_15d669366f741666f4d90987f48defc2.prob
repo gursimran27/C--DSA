@@ -1,0 +1,1 @@
+{"name":"Local: mrege_sort2","url":"c:\\codes\\mrege_sort2.cpp","tests":[{"id":1668100283467,"input":"5\n90 0 -90 5 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\codes\\mrege_sort2.cpp","group":"local","local":true}

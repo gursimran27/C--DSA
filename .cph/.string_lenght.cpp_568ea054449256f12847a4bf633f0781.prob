@@ -1,0 +1,1 @@
+{"name":"Local: string_lenght","url":"c:\\codes\\string_lenght.cpp","tests":[{"id":1666630357063,"input":"GURSIMRAN singh  is a good coder","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\codes\\string_lenght.cpp","group":"local","local":true}
